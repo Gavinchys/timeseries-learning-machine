@@ -1,0 +1,1 @@
+The assignment code file contains R script that was used to apply ARIMA models to analyze the historical price data of an asset and compute various selection criteeria such as the Bayesian Information Criterion in oder to select an appropriate model. The model is used to forecast future price points and the asset's behavior to make decisions on asset investment.
